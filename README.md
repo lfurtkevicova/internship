@@ -22,8 +22,7 @@
 <br>
 [2] http://www.gismentors.cz/blog/geoinformatika-a-qgis-v-hydrologii
 <br>
-[3] http://www.gismentors.cz/blog/10-dovodov-preco-vyskusat-novy-qgis-2-12  
-<br>
+[3] http://www.gismentors.cz/blog/10-dovodov-preco-vyskusat-novy-qgis-2-12
 [4] http://training.gismentors.eu/qgis-zacatecnik/rastrova_data/index.html
 <br>
 [5] http://training.gismentors.eu/qgis-zacatecnik/ruzne/qgis_pluginy.html
@@ -32,7 +31,7 @@
 <br>
 [7] https://github.com/GISMentors/qgis-pokrocily/tree/master/hydrologie
 <br>
-[8] http://web.gislab.io/
+[8] http://web.gislab.io
 <br>
 [9] https://github.com/lfurtkevicova/kn-stuff/wiki 
 <br>
