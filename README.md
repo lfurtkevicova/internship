@@ -2,13 +2,13 @@
 
 ####   September 2015 - Februry 2016
 
-✎ an interniship led by Ing. Martin Landa, Ph.D., chapter member of the Open Source Geospatial Foundation and member of the GRASS Project Steering Committee
+✎  an internship led by Ing. Martin Landa, Ph.D., chapter member of the Open Source Geospatial Foundation and member of the GRASS Project Steering Committee
 
 - switching from Windows to Linux platform
 - activities focused on open source GIS software  
 - working with Git, Track, Sphinx, GRASS GIS, QGIS, PostGIS
 - closely working with GISMentors [1]-[7]
-- activities related to GIS.lab [8]
+- activities related to GIS.lab [8] [11]
 - creation of QGIS plugin to deal with Slovak cadastal data in GIS [9] 
 - helping with issues for GIS subject designed for younger CVUT students 
 - participating in subject 'An Introduction to spatial data processing'
@@ -37,3 +37,5 @@
 [9] https://github.com/lfurtkevicova/kn-stuff/wiki 
 <br>
 [10] https://grasswiki.osgeo.org/wiki/GRASS_GIS_contributors_meetings_in_Solany
+<br>
+[11] https://github.com/lfurtkevicova/my-notes-gis-lab
