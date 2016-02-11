@@ -23,6 +23,7 @@
 [2] http://www.gismentors.cz/blog/geoinformatika-a-qgis-v-hydrologii
 <br>
 [3] http://www.gismentors.cz/blog/10-dovodov-preco-vyskusat-novy-qgis-2-12
+<br>
 [4] http://training.gismentors.eu/qgis-zacatecnik/rastrova_data/index.html
 <br>
 [5] http://training.gismentors.eu/qgis-zacatecnik/ruzne/qgis_pluginy.html
